@@ -57,7 +57,7 @@ a:focus {
 }
 
 .masthead a {
-  border-bottom: .2em solid rgba(255, 255, 11, 0.6);
+  border-bottom: .2em solid rgba(255, 255, 11, .6);
   color: #fff;
   text-decoration: none;
 }
