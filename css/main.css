@@ -16,6 +16,10 @@ html {
   background-size: cover;
 }
 
+a:focus {
+  outline: 3px solid white;
+}
+
 .btn:not(.btn-ghost) {
   background-color: #8d483b;
   border-color: #8d483b;
@@ -53,7 +57,7 @@ html {
 }
 
 .masthead a {
-  border-bottom: .2em solid rgba(255, 255, 255, .6);
+  border-bottom: .2em solid rgba(255, 255, 11, 0.6);
 
   color: #fff;
   text-decoration: none;
